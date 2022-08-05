@@ -5,7 +5,7 @@ En este análisis se tomo la base de clientes a los que se les envía una campa�
 
 Principales Resultados:
 
-- La mayoría de clientes llamaron para hacer consultas - El 43,1% del universo total de llamadas.
+- La mayoría de clientes llamaron para hacer consultas: El 43,1% del universo total de llamadas.
 - El segundo grupo con más llamadas fueron los que hicieron solicitudes, estos representaban el 22,0% del total.
 
 Viendo un nivel más abajo, para entender el real motivo de las llamadas se observó que:
