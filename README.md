@@ -10,6 +10,8 @@ En este análisis se tomo la base de clientes a los que se les envía una campa�
 
 ![Gráfico de llamada según el tipo de contacto](https://github.com/vittoriadelsignore/Emails-Registros/blob/main/Tipo%20Contacto.png) 
 
+![Gráfico de llamada según el tipo de contacto en Porcentaje](https://github.com/vittoriadelsignore/Emails-Registros/blob/main/Porcentaje%20Tipo%20Contacto.png) 
+
 Viendo un nivel más abajo, para entender el real motivo de las llamadas se observó que:
 
 - Las llamadas de consultas se enfocaron en: conocer la cobertura del producto a mayor detalle, y solicitar información del producto.
